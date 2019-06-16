@@ -1,1 +1,1 @@
-#CitiesAndStreetsMeneger
+#CitiesAndStreetsManager
